@@ -1,0 +1,7 @@
+[safe]
+	directory = /storage/emulated/0/metrotex
+[user]
+	name = Desmond Yeboah
+	email = Doytechsolutionsinc@gmail.com
+[credential]
+	helper = store
